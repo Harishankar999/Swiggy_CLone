@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+      "name": "Chaitanya Parathas",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": 3,
+      "deliveryTimings": "33 MINS",
+      "costForTwo": 300,
+      "offers": ["20% off", "Use TRYNEW"]
+    },
+    {
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+        "name": "MH 12 Pav Bhaji",
+        "category": [ 
+          "Snacks",
+          "Pizza",
+          "Beverages",
+          "Steet Food",
+          "Beverages"
+        ],
+        "rating": 4,
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 98,
+        "offers": ["10% off", "Use TRYNEW"]  
+      },
+      {
+        "id": 3,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+        "name": "Lunch Box",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Combo",
+          "Biryani",
+          "Healthy Food",
+          "Jain",
+          "Thalis"
+        ],
+        "rating": 3,
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 200,
+        "offers": ["10% off", "Use TRYNEW"]
+      },
+      {
+        "id": 4,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+        "name": "The Hungry Hippe",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages",
+          "Italian",
+          "Thai"
+        ],
+        "rating": 2,
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 50,
+        "offers": ["5% off", "Use TRYNEW"]
+      },
+      {
+        "id": 5,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+        "name": "Ovenstory Pizzas",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages",
+          "Pizzas"
+        ],
+        "rating": 4,
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 20,
+        "offers": ["30% off", "Use TRYNEW"]
+      },
+      {
+        "id": 6,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+        "name": "Starbucks Coffee",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages",
+          "Coffee",
+          "Ice-cream"
+        ],
+        "rating": 3,
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 90,
+        "offers": ["10% off", "Use TRYNEW"]
+      },
+      {
+        "id": 7,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+        "name": "Hungry Restaurant",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages",
+          "Chicken"
+        ],
+        "rating": 5,
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 500,
+        "offers": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id": 8,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant8.jpeg",
+        "name": "Harshal Chiken",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages",
+          "Chicken"
+        ],
+        "rating": 4,
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 199,
+        "offers": ["40% off", "Use TRYNEW"]
+      },
+      {
+        "id": 9,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant9.jpeg",
+        "name": "Northan Hungry",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": 3,
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 99,
+        "offers": ["30% off", "Use TRYNEW"]
+      },
+      {
+        "id": 10,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant10.jpeg",
+        "name": "Guddies Stall",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": 4,
+        "deliveryTimings": "33 MINS",
+        "costForTwo": 55,
+        "offers": ["11% off", "Use TRYNEW"]
+      }
+
+]
+           
+               
+               
+                
+                
+                
